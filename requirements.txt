@@ -1,0 +1,32 @@
+# django
+django
+djangorestframework
+PyJWT
+
+#password encryption
+bcrypt
+
+# testing
+pytest-django
+
+# docker
+docker
+
+# environment
+python-dotenv
+
+# wsgi
+gunicorn
+
+# DB
+psycopg2-binary
+
+# cors header
+django-cors-headers
+
+# django-chat library
+channels
+channels_redis
+
+# Oauth
+django-allauth
